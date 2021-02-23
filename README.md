@@ -3,6 +3,8 @@
 ![landing page](https://github.com/ahmadbenos/stripe-payment-sample/blob/main/stripe_Sc.png)
 
 **Checkout page using stripe API**
+
+**use credit card test number 4242 4242 4242 4242 and enter random numbers in CVC and MM/YY to test out the payment success flow**
 ![checkout](https://github.com/ahmadbenos/stripe-payment-sample/blob/main/stripe_Sc1.png)
 
 ## Installation
